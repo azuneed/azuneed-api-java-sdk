@@ -37,7 +37,7 @@ import java.util.Map;
 /**
  * MediaType
  */
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-11-25T16:18:43.286+01:00")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-11-25T16:24:13.221+01:00")
 public class MediaType   {
   @SerializedName("type")
   private String type = null;

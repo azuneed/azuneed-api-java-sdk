@@ -35,7 +35,7 @@ import io.swagger.client.model.UserPhonesId;
 /**
  * UserPhones
  */
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-11-25T16:18:43.286+01:00")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-11-25T16:24:13.221+01:00")
 public class UserPhones   {
   @SerializedName("linkedUserRelation")
   private String linkedUserRelation = null;

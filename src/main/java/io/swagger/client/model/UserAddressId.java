@@ -34,7 +34,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * UserAddressId
  */
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-11-25T16:18:43.286+01:00")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-11-25T16:24:13.221+01:00")
 public class UserAddressId   {
   @SerializedName("stringOf")
   private String stringOf = null;
